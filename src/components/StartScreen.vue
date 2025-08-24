@@ -4,7 +4,7 @@ import { ref } from 'vue';
 
 const topic = ref("");
 const emit = defineEmits(['start-quiz'])
-console.log("mahmud uz zaman");
+// console.log("mahmud uz zaman");
 
 
 
